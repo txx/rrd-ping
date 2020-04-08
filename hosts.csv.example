@@ -1,0 +1,3 @@
+# HOST, IP Family, Name 
+ping.ripe.net,4,ripenet4
+ping.ripe.net,6,ripenet6
